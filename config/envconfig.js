@@ -1,9 +1,9 @@
 var config = {
     database: {
-        user: 'JeffMaliK',
-        password: '56894352Th*',
-        server: 'disenno.database.windows.net',
-        database: 'disenno',
+        user: 'nombre de BD',
+        password: 'password',
+        server: 'servidor donde está hosteada la BD',
+        database: 'nombre de la BD',
         encrypt: true
     },
     server: {
